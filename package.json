@@ -1,0 +1,15 @@
+{
+  "name": "indeliblefocusedbsddaemon",
+  "version": "1.0.0",
+  "description": "\"discription to be passed\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"naveenkumar\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "~2.10.2"
+  }
+}
